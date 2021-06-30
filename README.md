@@ -1,4 +1,4 @@
-- 👋 I’m @jerrywzy, currently a research assistant at the National University of Singapore, working in the field of genomics and public health.
+- 👋 I’m @jerrywzy, a research assistant at the National University of Singapore, working in the field of genomics and public health.
 - 📫 You can reach me at jerrywzy@hotmail.com
 
 <!---
