@@ -1,4 +1,4 @@
-- 👋 I’m @jerrywzy, working in the field of genomics and public health.
+- 👋 I’m @jerrywzy, working in clinical bioinformatics.
 - 📫 You can reach me at jerrywzy@hotmail.com
 
 <!---
