@@ -1,4 +1,4 @@
-- 👋 I’m @jerrywzy, working in clinical bioinformatics.
+- 👋 I’m @jerrywzy, working in clinical diagnostics
 - 📫 You can reach me at jerrywzy@hotmail.com
 
 <!---
